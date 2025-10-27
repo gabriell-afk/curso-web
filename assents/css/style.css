@@ -123,7 +123,7 @@ header nav a {
     height: 400px;
     padding-inline: 1.5rem;
 
-    background-image: url('/assents/img/Darth-IMG.png');
+    background-image: url('assents/img/Darth-IMG.png');
     background-repeat: no-repeat;
     background-position: rem;
     background-size: 300px;
